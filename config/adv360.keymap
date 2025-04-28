@@ -89,8 +89,7 @@
     alt_esc_macro: alt_esc_macro {
       label = "Alt + Esc Macro";
       bindings = <
-        &kp RALT
-        &kp ESC
+        &kp RALT &kp ESC
       >;
     };
   };
